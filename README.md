@@ -1,15 +1,29 @@
+```python
+from GitHub import ReadMe
 
-<h2 align="center">Paradisx's Stats</h2>
-<a href="https://github.com/Paradisx">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Paradisx" alt="Profile Views Count">
-  </p>
-</a>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Paradisx&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/831958909895573505.png" />
-</p>
+class ReadMe:
+    def __init__(self, username="Ashley<3"):
+        self.skidded = "Yes"
+        self.username = username
+        self.pronouns = "She/Her"
+        self.contacts = {
+            "Discord": "Ashley<3#1337",
+            "Twitter": "@AAshley1337",
+            "Telegram": "Paradise1337"
+        }
+        self.alises = [
+            "Paradise",
+            "Ashley<3,
+            "Abby<3",
+        ]
+        self.location = "United States, South Carolina"
+        self.age = "15, Born 20 July 2006"
+        self.occupation = "Freelance Software Developer"
+        self.projects = {
+            "public": {
+                  "total": 7,
+                  "location": "https://github.com/Paradisx?tab=repositories"
+            }
+        }
+        self.languages = ["Python", "JavaScript", "C#"]
+```
