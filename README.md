@@ -13,7 +13,7 @@ class ReadMe:
         }
         self.alises = [
             "Paradise",
-            "Ashley<3,
+            "Ashley<3",
             "Abby<3",
         ]
         self.location = "United States, South Carolina"
