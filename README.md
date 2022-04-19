@@ -2,12 +2,12 @@
 from GitHub import ReadMe
 
 class ReadMe:
-    def __init__(self, username="Eon"):
+    def __init__(self, username="Ashy<3"):
         self.skidded = "Yes"
         self.username = username
         self.pronouns = "She/Her"
         self.contacts = {
-            "Discord": "E O N#1337",
+            "Discord": "Ashley<3#6523",
             "Twitter": "@EEon1337",
             "Telegram": "Paradise1337"
         }
