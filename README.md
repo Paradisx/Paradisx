@@ -17,7 +17,8 @@ class ReadMe:
             "Juicy",
             "Paradise",
             "Ashley<3",
-            "Abby<3"
+            "Abby<3",
+            "Ashy<3"
         ]
         self.location = "United States, South Carolina"
         self.age = "15, Born 20 July 2006"
