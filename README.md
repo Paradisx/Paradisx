@@ -7,7 +7,7 @@ class ReadMe:
         self.username = username
         self.pronouns = "She/Her"
         self.contacts = {
-            "Discord": "Ashley<3#6523",
+            "Discord": "Dassidy#4442",
             "Twitter": "@EEon1337",
             "Telegram": "Paradise1337"
         }
