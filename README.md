@@ -1,3 +1,9 @@
+<!-- TITLE -->
+
+<p href="https://discord.gg/swatted" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/840541540203626516/>
+</p>
+
 ```python
 from GitHub import ReadMe
 
@@ -25,7 +31,7 @@ class ReadMe:
         self.occupation = "Freelance Software Developer"
         self.projects = {
             "public": {
-                  "total": 8,
+                  "total": 9,
                   "location": "https://github.com/Paradisx?tab=repositories"
             }
         }
