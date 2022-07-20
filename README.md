@@ -1,7 +1,7 @@
 <!-- TITLE -->
 
 <p href="https://discord.gg/swatted" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/840541540203626516/>
+    <img alt="" src=https://lanyard.cnrad.dev/api/863732077953679417/>
 </p>
 
 ```python
