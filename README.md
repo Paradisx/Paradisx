@@ -21,7 +21,7 @@ class ReadMe:
             "Ashy<3"
         ]
         self.location = "United States, South Carolina"
-        self.age = "15, Born 20 July 2006"
+        self.age = "16, Born 20 July 2006"
         self.occupation = "Freelance Software Developer"
         self.projects = {
             "public": {
